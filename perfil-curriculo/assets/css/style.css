@@ -1,0 +1,57 @@
+#card{
+    background-color: #e3185e;
+    width: 400px;
+    height: 600px;
+    border-radius: 5%;
+    margin-left: 550px;
+}
+
+#picture{
+    width: 200px;
+    height: 250px;
+    border-radius: 5%;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+#info{
+    background-color: #70d6a0;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 5%;
+}
+
+#info p{
+    margin-top: 2px;
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 10px;
+    display: flow;
+}   
+
+#techs{
+    width: 45px;
+    height: 45px;
+    margin-left: 35px;
+    padding-left: 10px;
+}
+
+#img-tech{
+
+    display: flex;
+    align-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+ 
+#img-contato{
+    width: 45px;
+    height: 45px;
+    margin-left: 50px;
+    padding-left: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
